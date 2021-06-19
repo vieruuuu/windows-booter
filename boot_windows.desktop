@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/share/applications/boot_windows.sh
+Icon=/usr/share/icons/windows.png
+Categories=System;
+
+Name=Boot to Windows
+Comment=Reboot directly to Windows
+
